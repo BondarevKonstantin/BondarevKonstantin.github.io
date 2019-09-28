@@ -1,0 +1,46 @@
+.container {
+  margin-top: 4rem;
+  padding: 0.1rem 0 3rem 0; }
+
+.header {
+  text-align: center;
+  margin-top: 4rem;
+  color: #ffffff;
+  z-index: 2;
+  font-family: sans-serif; }
+
+.timer-header {
+  text-align: center;
+  margin-top: 4rem;
+  color: #ffffff;
+  z-index: 2;
+  font-family: sans-serif; }
+.timer-numbers {
+  text-align: center;
+  margin-top: 4rem;
+  color: #ffffff;
+  z-index: 2;
+  font-size: 2rem;
+  font-family: sans-serif; }
+  .timer-numbers .numbers {
+    margin-right: 1rem;
+    font-weight: 700; }
+
+.regards {
+  text-align: center;
+  margin-top: 4rem;
+  color: #ffffff;
+  z-index: 2;
+  font-family: sans-serif; }
+
+body {
+  background: url(background.png) no-repeat center center fixed;
+  background-size: cover; }
+
+.content {
+  height: 80%;
+  width: 100%;
+  top: -100px;
+  background-color: rgba(0, 0, 0, 0.7); }
+
+/*# sourceMappingURL=style.css.map */
