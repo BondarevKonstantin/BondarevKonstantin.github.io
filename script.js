@@ -63,6 +63,6 @@ window.addEventListener('DOMContentLoaded', function() {
         updateClock();
     }
 
-    countTimer('2 november 2019');
+    countTimer('2 november 2019 13:10');
 
 });
